@@ -24,17 +24,11 @@
 
 ### 🔗 Let's Connect!
 <div align="center">
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://t.me/potaninpm" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://instagram.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:potanin.m2008@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
 
@@ -42,16 +36,16 @@
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=PotaninPM&show_icons=true&theme=radical" alt="GitHub Stats">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PotaninPM&layout=compact&theme=radical" alt="Top Languages">
 </div>
 
 ---
 
 ### 🛠️ Current Projects
-- **[Project Name 1](https://github.com/yourusername/project1)** - Brief description of what it does or the problem it solves.
-- **[Project Name 2](https://github.com/yourusername/project2)** - Brief description of what it does or the problem it solves.
-- **[Project Name 3](https://github.com/yourusername/project3)** - Brief description of what it does or the problem it solves.
+- **Metoo(https://github.com/PotaninPM/Metoo)** - ...
+- **Wordcon(https://github.com/PotaninPM/Wordcon)** - game.
+- **Lipe (https://github.com/PotaninPM/Lipe)** - ...
 
 Thanks for stopping by! 🙌 Drop a ⭐ if you like my work or want to collaborate!
