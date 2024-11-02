@@ -43,9 +43,4 @@
 
 ---
 
-### 🛠️ Current Projects
-- **Metoo(https://github.com/PotaninPM/Metoo)** - ...
-- **Wordcon(https://github.com/PotaninPM/Wordcon)** - game.
-- **Lipe (https://github.com/PotaninPM/Lipe)** - ...
-
 Thanks for stopping by! 🙌 Drop a ⭐ if you like my work or want to collaborate!
