@@ -14,11 +14,10 @@
 ### 💻 Tech Stack
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=Java&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-FFA500.svg?style=for-the-badge&logo=xml&logoColor=white)
-![C++](https://img.shields.io/badge/C++-3776AB.svg?style=for-the-badge&logo=c++&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![Ktor](https://img.shields.io/badge/Ktor-f20f38.svg?style=for-the-badge&logo=ktor&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
 
 <p>
     <img height=40 alt="kotlin" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
@@ -31,7 +30,7 @@
     <img width="12" />
     <img height=40 alt="ktor" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ktor/ktor-original.svg" />
     <img width="12" />
-    <img height=40 alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c++/c++-original.svg" />
+    <img height=40 alt="android" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
 </p>
 
 ---
