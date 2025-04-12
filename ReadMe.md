@@ -51,8 +51,8 @@
 
 ### `Participant`
 
-- Yandex Hackathon
-- DriveHack
+- Yandex Gamification Hackathon 2025
+- DriveHack 2024
 - PROD 2024 Hackathon Moscow (Industrial Development Olympiad)
 
 Thanks for stopping by! 🙌 Drop a ⭐ if you like my work or want to collaborate!
