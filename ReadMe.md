@@ -43,4 +43,16 @@
 
 ---
 
+## `Achievements`
+
+### `Winner`
+
+- PROD 2025 (Industrial Development Olympiad)
+
+### `Participant`
+
+- Yandex Hackathon
+- DriveHack
+- PROD 2024 Hackathon Moscow (Industrial Development Olympiad)
+
 Thanks for stopping by! 🙌 Drop a ⭐ if you like my work or want to collaborate!
