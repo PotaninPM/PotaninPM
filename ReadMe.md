@@ -45,6 +45,10 @@
 
 ## `Achievements`
 
+### `Jobs`
+
+- T-Bank
+
 ### `Winner`
 
 - PROD 2025 (Industrial Development Olympiad)
