@@ -4,10 +4,10 @@
 ---
 
 ### 🧑‍💻 About Me
+- 🧑‍💻 **Current work:** T-Bank
 - 🌆 **Location:** Moscow, Russia 🇷🇺
 - 💼 **Profession:** Android Developer
 - 📱 **Passionate about:** Mobile development, UI/UX design, and efficient app architecture
-- 🚀 **Learning & Growing:** Always working on improving my skills and keeping up with the latest tech trends
   
 ---
 
