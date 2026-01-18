@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🥇 Hackathons & Olympiads • 🛠️ Useful utilities • 🎓 Education • 🤝 Networking
+  🥇 Hackathons & Olympiads • 🛠️ Useful utilities • 🎓 Education • 🤝 Networking • 🧑‍💻 Work
 </p>
 
 <p align="center">
