@@ -18,6 +18,6 @@
 ## 🏆 Achievements
 - 8+ months of professional experience as an Android developer at <a href="https://www.tbank.ru/">T-Bank</a> (ex. Tinkoff)
 - International <a href="https://prodcontest.com/">PROD Olympiad</a> Winner (Mobile Development) + Best Individual Stage Solution
-- Absolute winner of PROD hackathons (Mobile Development) in Moscow and Saint Petersburg
+- Absolute winner of <a href="https://prodcontest.com/#hackathons">PROD hackathons</a> (Mobile Development) in Moscow and Saint Petersburg
 - Samsung International competition ‘Strongest Choose” winner
 - Speaker at one of the largest IT festivals in Russia — IT Picnic (https://it-picnic.ru/)
