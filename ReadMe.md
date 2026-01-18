@@ -9,8 +9,12 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/potaninpm">Telegram</a> •
-  <a href="mailto:potanin.m2008@gmail.com">Email</a>
+  <a href="https://t.me/potaninpm">
+    <img src="https://img.shields.io/badge/Telegram-@potaninpm-26A5E4?logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:potanin.m2008@gmail.com">
+    <img src="https://img.shields.io/badge/Email-potanin.m2008%40gmail.com-EA4335?logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
