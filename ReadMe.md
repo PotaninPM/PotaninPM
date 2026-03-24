@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Mike</h1>
 
 <p align="center">
-  17 y.o. mobile developer • Android (Kotlin)
+  18 y.o. mobile developer • Android (Kotlin)
 </p>
 
 <p align="center">
