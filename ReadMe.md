@@ -20,7 +20,7 @@
 ---
 
 ## 🏆 Achievements
-- 11+ months of professional experience as an Android developer at <a href="https://www.tbank.ru/">T-Bank</a> (ex. Tinkoff)
+- More than a year of professional experience as an Android developer at <a href="https://www.tbank.ru/">T-Bank</a> (ex. Tinkoff)
 - International <a href="https://prodcontest.com/">PROD Olympiad</a> Winner (Mobile Development) + Best Individual Stage Solution - 2025
 - International <a href="https://prodcontest.com/">PROD Olympiad</a> Gold Medal (Mobile Development) + Best Team Stage Solution - 2026
 - Absolute winner of <a href="https://prodcontest.com/#hackathons">PROD hackathons</a> (Mobile Development) in Moscow and Saint Petersburg
